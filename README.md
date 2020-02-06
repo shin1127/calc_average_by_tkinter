@@ -1,6 +1,6 @@
 # calc_average
 
-#Introduction
+# Introduction
 
 Pythonの勉強を進めていく内に、CUIではなくGUIアプリを作ってみたいと思い立ち、作ったもの。
 "hello world"を出力するだけでは味気ないので、
